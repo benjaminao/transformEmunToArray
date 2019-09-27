@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Code scaffolding
 
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_A_to_B.png"><img src="https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_A_to_B.png" alt="A Start B" style="max-width:100%;"></a>
+<div class="border rounded-2 repository-og-image js-repository-image-container" style="background-image: url('https://repository-images.githubusercontent.com/211313258/ba686280-e105-11e9-8ea0-87ec9ed6629b')"></div>
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
